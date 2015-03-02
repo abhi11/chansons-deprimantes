@@ -7,7 +7,7 @@
 * [Low Man's Lyric](https://www.youtube.com/watch?v=k2Qq_tBhDsQ) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 * [Unforgiven 2](https://www.youtube.com/watch?v=G-Bn_kD6QN4) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 * [Mama Said](https://www.youtube.com/watch?v=4FKYsUEuvIo) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
-* [Face to Black](https://www.youtube.com/watch?v=WEQnzs8wl6E) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
+* [Fade to Black](https://www.youtube.com/watch?v=WEQnzs8wl6E) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 * [Wonderful Tonight](https://www.youtube.com/watch?v=xl7Hd2r0LOs) by [Eric Clapton](http://en.wikipedia.org/wiki/Eric_Clapton)
 * [Tears in Heaven](https://www.youtube.com/watch?v=JxPj3GAYYZ0) by [Eric Clapton](http://en.wikipedia.org/wiki/Eric_Clapton)
 * [Romeo and Juliet](https://www.youtube.com/watch?v=mxfjSnMN88U) by [Dire Straits](http://en.wikipedia.org/wiki/Dire_Straits)
