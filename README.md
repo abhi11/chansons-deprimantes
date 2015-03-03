@@ -13,6 +13,7 @@
 * [Wonderful Tonight](https://www.youtube.com/watch?v=xl7Hd2r0LOs) by [Eric Clapton](http://en.wikipedia.org/wiki/Eric_Clapton)
 * [Tears in Heaven](https://www.youtube.com/watch?v=JxPj3GAYYZ0) by [Eric Clapton](http://en.wikipedia.org/wiki/Eric_Clapton)
 * [Promises](https://www.youtube.com/watch?v=IuZkUftTwKo) by [Eric Clapton](http://en.wikipedia.org/wiki/Eric_Clapton)
+* [My Immortal](https://www.youtube.com/watch?v=5anLPw0Efmo) by [Evanescence](http://en.wikipedia.org/wiki/Evanescence)
 * [Sky Blue and Black](https://www.youtube.com/watch?v=ZaT04YFgAIY) by [Jackson Browne](http://en.wikipedia.org/wiki/Jackson_Browne)
 * [Leaving on a Jet Plane](https://www.youtube.com/watch?v=f4hsC0nRvZM) by [John Denver](http://en.wikipedia.org/wiki/John_Denver)
 * [In My Darkest Hour](https://www.youtube.com/watch?v=S6LL5iA6y9o) by [Megadeth](http://en.wikipedia.org/wiki/Megadeth)
@@ -24,6 +25,7 @@
 * [When](https://www.youtube.com/watch?v=ZjkNe4UkYSs) by [Opeth](http://en.wikipedia.org/wiki/Opeth)
 * [Demon of the Fall](https://www.youtube.com/watch?v=fT_waNzdKMg) by [Opeth](http://en.wikipedia.org/wiki/Opeth)
 * [Face of Melinda](https://www.youtube.com/watch?v=WGg155CcGKE) by [Opeth](http://en.wikipedia.org/wiki/Opeth)
+* [Isolation Years](https://www.youtube.com/watch?v=KDpyzdhUktg) by [Opeth](http://en.wikipedia.org/wiki/Opeth)
 * [Creep](https://www.youtube.com/watch?v=XFkzRNyygfk) by [Radiohead](http://en.wikipedia.org/wiki/Radiohead)
 * [With or without you](https://www.youtube.com/watch?v=EzeDqRhM09w) by [U2](http://en.wikipedia.org/wiki/U2)
 

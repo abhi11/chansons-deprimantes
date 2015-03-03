@@ -76,8 +76,27 @@ class ReadmeParser:
 if __name__ == "__main__":
     readme = ReadmeParser("README.md")
     #printf(readme.song_dict)
-    readme.add_song("Hindi", "Tanhayee", "https://www.youtube.com/watch?v=ZkwaiIGoyT4", "Sonu Nigam", "")
-
+    #readme.add_song("Hindi", "Tanhayee", "https://www.youtube.com/watch?v=ZkwaiIGoyT4", "Sonu Nigam", "")
+    songs = [
+            [
+                "English",
+                "Isolation Years",
+                "https://www.youtube.com/watch?v=KDpyzdhUktg",
+                "Opeth",
+                "http://en.wikipedia.org/wiki/Opeth"
+            ],
+            [
+                "English",
+                "My Immortal",
+                "https://www.youtube.com/watch?v=5anLPw0Efmo",
+                "Evanescence",
+                "http://en.wikipedia.org/wiki/Evanescence"
+            ],
+            
+        ]
+    for s in songs:
+        readme.add_song(*s)
+    
     #Example of where this can help - 
     #Re-organising by Bandname
     d = readme.song_dict
