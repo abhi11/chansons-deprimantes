@@ -27,6 +27,7 @@
 * [Face of Melinda](https://www.youtube.com/watch?v=WGg155CcGKE) by [Opeth](http://en.wikipedia.org/wiki/Opeth)
 * [Isolation Years](https://www.youtube.com/watch?v=KDpyzdhUktg) by [Opeth](http://en.wikipedia.org/wiki/Opeth)
 * [Creep](https://www.youtube.com/watch?v=XFkzRNyygfk) by [Radiohead](http://en.wikipedia.org/wiki/Radiohead)
+* [Unchained Melody](https://www.youtube.com/watch?v=zrK5u5W8afc) by [Righteous Brothers](http://en.wikipedia.org/wiki/The_Righteous_Brothers)
 * [With or without you](https://www.youtube.com/watch?v=EzeDqRhM09w) by [U2](http://en.wikipedia.org/wiki/U2)
 
 
