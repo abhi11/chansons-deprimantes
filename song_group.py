@@ -79,11 +79,18 @@ if __name__ == "__main__":
     songs = [
             [
                 "English",
-                "Unchained Melody",
-                "https://www.youtube.com/watch?v=zrK5u5W8afc",
-                "Righteous Brothers",
-                "http://en.wikipedia.org/wiki/The_Righteous_Brothers"
-            ]            
+                "Postcard",
+                "https://www.youtube.com/watch?v=hVng38pfXd4",
+                "Steven Wilson",
+                "http://en.wikipedia.org/wiki/Steven_Wilson"
+            ],
+            [
+                "English",
+                "Deform To Form a Star",
+                "https://www.youtube.com/watch?v=En9ibmBvPJI",
+                "Steven Wilson",
+                "http://en.wikipedia.org/wiki/Steven_Wilson"
+            ]
         ]
 
 
