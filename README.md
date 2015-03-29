@@ -31,7 +31,7 @@
 * [Postcard](https://www.youtube.com/watch?v=hVng38pfXd4) by [Steven Wilson](http://en.wikipedia.org/wiki/Steven_Wilson)
 * [Deform To Form a Star](https://www.youtube.com/watch?v=En9ibmBvPJI) by [Steven Wilson](http://en.wikipedia.org/wiki/Steven_Wilson)
 * [With or without you](https://www.youtube.com/watch?v=EzeDqRhM09w) by [U2](http://en.wikipedia.org/wiki/U2)
-
+* [Tuesday's Gone](https://www.youtube.com/watch?v=iFNbTdLfBwQ) by [Lynyrd Skynyrd](http://en.wikipedia.org/wiki/Lynyrd_Skynyrd)
 
 ## Hindi
 
