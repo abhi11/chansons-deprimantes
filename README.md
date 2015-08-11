@@ -6,6 +6,7 @@
 
 ## English
 
+* [Like a Stone](https://www.youtube.com/watch?v=4zdoXgGnKdc) by [Audioslave](https://en.wikipedia.org/wiki/Audioslave)
 * [When a Blind Man Cries](https://www.youtube.com/watch?v=9_Iq9CWuqMM) by [Deep Purple](http://en.wikipedia.org/wiki/Deep_Purple)
 * [Romeo and Juliet](https://www.youtube.com/watch?v=mxfjSnMN88U) by [Dire Straits](http://en.wikipedia.org/wiki/Dire_Straits)
 * [So Far Away](https://www.youtube.com/watch?v=2AA64eCt2zs) by [Dire Straits](http://en.wikipedia.org/wiki/Dire_Straits)
