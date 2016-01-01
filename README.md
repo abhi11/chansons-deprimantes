@@ -45,6 +45,8 @@
 * [Yeh Duniya Agar Mil Bhi Jaye Toh Kya Hai](https://www.youtube.com/watch?v=t8f7bukIUWU) by [Mohammed Rafi](http://en.wikipedia.org/wiki/Mohammed_Rafi)
 * [Tum Hi Ho](https://www.youtube.com/watch?v=Umqb9KENgmk) by [Aritjit Singh](https://en.wikipedia.org/wiki/Arijit_Singh)
 * [Bheegi Bheegi](https://www.youtube.com/watch?v=aSNLwPPyrgo) by [James](https://en.wikipedia.org/wiki/James_(musician))
+* [Abhi Mujh Mein Kahin](https://www.youtube.com/watch?v=vjbj51SRgys) by [Sonu Nigam](http://en.wikipedia.org/wiki/Sonu_Nigam)
+
 
 ## Tamil
 
@@ -53,3 +55,4 @@
 ## Bengali
 
 * [Gobhire Jao](https://www.youtube.com/watch?v=wHL8LDDcYsE) by [Rupankar Bagchi](https://en.wikipedia.org/wiki/Rupankar_Bagchi)
+*
