@@ -39,9 +39,17 @@
 * [Tanhayee](https://www.youtube.com/watch?v=ZkwaiIGoyT4) by [Sonu Nigam](http://en.wikipedia.org/wiki/Sonu_Nigam)
 * [Chithhi Na Koi Sandesh](https://www.youtube.com/watch?v=f90CT615SWA) by [Jagjit Singh](http://en.wikipedia.org/wiki/Jagjit_Singh)
 * [Lag Ja Gale](https://www.youtube.com/watch?v=TFr6G5zveS8) by [Lata Mangeshkar](http://en.wikipedia.org/wiki/Lata_Mangeshkar)
-* [Yeh Duniya Agar Mil Bhi Jaye Toh Kya Hai](https://www.youtube.com/watch?v=t8f7bukIUWU) by [Mohammed Rafi](http://en.wikipedia.org/wiki/Mohammed_Rafi)
 * [Main Bhool Jaun](https://www.youtube.com/watch?v=GV9GZhLtjX8) by [Jagjit Singh](http://en.wikipedia.org/wiki/Jagjit_Singh)
+* [Koi Dost Naa Raqeeb Hai](https://www.youtube.com/watch?v=Dl88aEa59-A) by [Jagjit Singh](http://en.wikipedia.org/wiki/Jagjit_Singh)
+* [Mujhse Bichhad Ke Khush Rehte Ho](https://www.youtube.com/watch?v=cjAetsaKBHE) by [Jagjit Singh](http://en.wikipedia.org/wiki/Jagjit_Singh)
+* [Yeh Duniya Agar Mil Bhi Jaye Toh Kya Hai](https://www.youtube.com/watch?v=t8f7bukIUWU) by [Mohammed Rafi](http://en.wikipedia.org/wiki/Mohammed_Rafi)
+* [Tum Hi Ho](https://www.youtube.com/watch?v=Umqb9KENgmk) by [Aritjit Singh](https://en.wikipedia.org/wiki/Arijit_Singh)
+* [Bheegi Bheegi](https://www.youtube.com/watch?v=aSNLwPPyrgo) by [James](https://en.wikipedia.org/wiki/James_(musician))
 
 ## Tamil
 
 * [Uyire](https://www.youtube.com/watch?v=OyVCEXIA9Wg)
+
+## Bengali
+
+* [Gobhire Jao](https://www.youtube.com/watch?v=wHL8LDDcYsE) by [Rupankar Bagchi](https://en.wikipedia.org/wiki/Rupankar_Bagchi)
