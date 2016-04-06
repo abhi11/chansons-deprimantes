@@ -33,6 +33,7 @@
 * [Deform To Form a Star](https://www.youtube.com/watch?v=En9ibmBvPJI) by [Steven Wilson](http://en.wikipedia.org/wiki/Steven_Wilson)
 * [With or without you](https://www.youtube.com/watch?v=EzeDqRhM09w) by [U2](http://en.wikipedia.org/wiki/U2)
 * [Tuesday's Gone](https://www.youtube.com/watch?v=iFNbTdLfBwQ) by [Lynyrd Skynyrd](http://en.wikipedia.org/wiki/Lynyrd_Skynyrd)
+* [Please, Please, Please Let Me Get What I Want](https://www.youtube.com/watch?v=H1uJiVeGwMQ) by [The Smiths](https://en.wikipedia.org/wiki/The_Smiths)
 
 ## Hindi
 
@@ -43,16 +44,16 @@
 * [Koi Dost Naa Raqeeb Hai](https://www.youtube.com/watch?v=Dl88aEa59-A) by [Jagjit Singh](http://en.wikipedia.org/wiki/Jagjit_Singh)
 * [Mujhse Bichhad Ke Khush Rehte Ho](https://www.youtube.com/watch?v=cjAetsaKBHE) by [Jagjit Singh](http://en.wikipedia.org/wiki/Jagjit_Singh)
 * [Yeh Duniya Agar Mil Bhi Jaye Toh Kya Hai](https://www.youtube.com/watch?v=t8f7bukIUWU) by [Mohammed Rafi](http://en.wikipedia.org/wiki/Mohammed_Rafi)
-* [Tum Hi Ho](https://www.youtube.com/watch?v=Umqb9KENgmk) by [Aritjit Singh](https://en.wikipedia.org/wiki/Arijit_Singh)
+* [Tum Hi Ho](https://www.youtube.com/watch?v=Umqb9KENgmk) by [Arijit Singh](https://en.wikipedia.org/wiki/Arijit_Singh)
 * [Bheegi Bheegi](https://www.youtube.com/watch?v=aSNLwPPyrgo) by [James](https://en.wikipedia.org/wiki/James_(musician))
 * [Abhi Mujh Mein Kahin](https://www.youtube.com/watch?v=vjbj51SRgys) by [Sonu Nigam](http://en.wikipedia.org/wiki/Sonu_Nigam)
 
 
 ## Tamil
 
-* [Uyire](https://www.youtube.com/watch?v=OyVCEXIA9Wg)
+* [Uyire Uyire](https://www.youtube.com/watch?v=OyVCEXIA9Wg) by [Hariharan](https://en.wikipedia.org/wiki/Hariharan_(singer))
 
 ## Bengali
 
 * [Gobhire Jao](https://www.youtube.com/watch?v=wHL8LDDcYsE) by [Rupankar Bagchi](https://en.wikipedia.org/wiki/Rupankar_Bagchi)
-*
+* [Eta ki 2441139](https://www.youtube.com/watch?v=WYSq5VdWCgU) by [Anjan Dutta](https://en.wikipedia.org/wiki/Anjan_Dutt)
