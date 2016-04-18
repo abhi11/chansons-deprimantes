@@ -34,6 +34,7 @@
 * [With or without you](https://www.youtube.com/watch?v=EzeDqRhM09w) by [U2](http://en.wikipedia.org/wiki/U2)
 * [Tuesday's Gone](https://www.youtube.com/watch?v=iFNbTdLfBwQ) by [Lynyrd Skynyrd](http://en.wikipedia.org/wiki/Lynyrd_Skynyrd)
 * [Please, Please, Please Let Me Get What I Want](https://www.youtube.com/watch?v=H1uJiVeGwMQ) by [The Smiths](https://en.wikipedia.org/wiki/The_Smiths)
+* [Outlaw Torn](https://www.youtube.com/watch?v=yIkSOx6kkMY) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 
 ## Hindi
 
@@ -52,6 +53,7 @@
 ## Tamil
 
 * [Uyire Uyire](https://www.youtube.com/watch?v=OyVCEXIA9Wg) by [Hariharan](https://en.wikipedia.org/wiki/Hariharan_(singer))
+* [Thenpandi Seemaiyile](https://www.youtube.com/watch?v=k37HXtgaj5s) by [Ilayaraja](https://en.wikipedia.org/wiki/Ilaiyaraaja)
 
 ## Bengali
 
