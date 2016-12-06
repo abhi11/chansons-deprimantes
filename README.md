@@ -48,6 +48,9 @@
 * [Tum Hi Ho](https://www.youtube.com/watch?v=Umqb9KENgmk) by [Arijit Singh](https://en.wikipedia.org/wiki/Arijit_Singh)
 * [Bheegi Bheegi](https://www.youtube.com/watch?v=aSNLwPPyrgo) by [James](https://en.wikipedia.org/wiki/James_(musician))
 * [Abhi Mujh Mein Kahin](https://www.youtube.com/watch?v=vjbj51SRgys) by [Sonu Nigam](http://en.wikipedia.org/wiki/Sonu_Nigam)
+* [Ghar](https://www.youtube.com/watch?v=bfk6AzvyX4k) by [Piyush Mishra](https://en.wikipedia.org/wiki/Piyush_Mishra)
+* [Zinda](https://www.youtube.com/watch?v=cgHLvt0rxmM) by [Amit Trivedi](https://en.wikipedia.org/wiki/Amit_Trivedi)
+* [Laadki](https://www.youtube.com/watch?v=5U9uP6riAZM) by [Sachin-Jigar](https://en.wikipedia.org/wiki/Sachin%E2%80%93Jigar)
 
 
 ## Tamil
