@@ -35,6 +35,7 @@
 * [Tuesday's Gone](https://www.youtube.com/watch?v=iFNbTdLfBwQ) by [Lynyrd Skynyrd](http://en.wikipedia.org/wiki/Lynyrd_Skynyrd)
 * [Please, Please, Please Let Me Get What I Want](https://www.youtube.com/watch?v=H1uJiVeGwMQ) by [The Smiths](https://en.wikipedia.org/wiki/The_Smiths)
 * [Outlaw Torn](https://www.youtube.com/watch?v=yIkSOx6kkMY) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
+* [Heal Me, I'm Heartsick](https://www.youtube.com/watch?v=MK3p-zjHszg) by No Vacancy
 
 ## Hindi
 
