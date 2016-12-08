@@ -36,6 +36,10 @@
 * [Please, Please, Please Let Me Get What I Want](https://www.youtube.com/watch?v=H1uJiVeGwMQ) by [The Smiths](https://en.wikipedia.org/wiki/The_Smiths)
 * [Outlaw Torn](https://www.youtube.com/watch?v=yIkSOx6kkMY) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 * [Heal Me, I'm Heartsick](https://www.youtube.com/watch?v=MK3p-zjHszg) by No Vacancy
+* [Crystal Ship](https://www.youtube.com/watch?v=LLkGsfOfgUw) by [The Doors](https://en.wikipedia.org/wiki/The_Doors)
+* [Hero of the day](https://www.youtube.com/watch?v=XkfO8c8MlKU) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
+* [Bleeding Me](https://www.youtube.com/watch?v=ftV_XepIwpo) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
+
 
 ## Hindi
 
@@ -52,6 +56,7 @@
 * [Ghar](https://www.youtube.com/watch?v=bfk6AzvyX4k) by [Piyush Mishra](https://en.wikipedia.org/wiki/Piyush_Mishra)
 * [Zinda](https://www.youtube.com/watch?v=cgHLvt0rxmM) by [Amit Trivedi](https://en.wikipedia.org/wiki/Amit_Trivedi)
 * [Laadki](https://www.youtube.com/watch?v=5U9uP6riAZM) by [Sachin-Jigar](https://en.wikipedia.org/wiki/Sachin%E2%80%93Jigar)
+* [Tum Ho Toh](https://www.youtube.com/watch?v=I3rQkFFqCiI) by [Farhan Akhtar](https://en.wikipedia.org/wiki/Farhan_Akhtar)
 
 
 ## Tamil
