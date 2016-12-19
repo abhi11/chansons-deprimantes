@@ -39,7 +39,7 @@
 * [Crystal Ship](https://www.youtube.com/watch?v=LLkGsfOfgUw) by [The Doors](https://en.wikipedia.org/wiki/The_Doors)
 * [Hero of the day](https://www.youtube.com/watch?v=XkfO8c8MlKU) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 * [Bleeding Me](https://www.youtube.com/watch?v=ftV_XepIwpo) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
-
+* [Diamonds & Rust](https://www.youtube.com/watch?v=dcaZi_G3xVs) by Joan Baez(https://en.wikipedia.org/wiki/Joan_Baez)
 
 ## Hindi
 
