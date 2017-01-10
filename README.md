@@ -40,6 +40,7 @@
 * [Hero of the day](https://www.youtube.com/watch?v=XkfO8c8MlKU) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 * [Bleeding Me](https://www.youtube.com/watch?v=ftV_XepIwpo) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 * [Diamonds & Rust](https://www.youtube.com/watch?v=dcaZi_G3xVs) by [Joan Baez](https://en.wikipedia.org/wiki/Joan_Baez)
+* [Behind Blue Eyes](https://www.youtube.com/watch?v=BfuWXRZe9yA) by [The Who](https://en.wikipedia.org/wiki/The_Who)
 
 ## Hindi
 
@@ -57,6 +58,7 @@
 * [Zinda](https://www.youtube.com/watch?v=cgHLvt0rxmM) by [Amit Trivedi](https://en.wikipedia.org/wiki/Amit_Trivedi)
 * [Laadki](https://www.youtube.com/watch?v=5U9uP6riAZM) by [Sachin-Jigar](https://en.wikipedia.org/wiki/Sachin%E2%80%93Jigar)
 * [Tum Ho Toh](https://www.youtube.com/watch?v=I3rQkFFqCiI) by [Farhan Akhtar](https://en.wikipedia.org/wiki/Farhan_Akhtar)
+* [Tere Liye](https://www.youtube.com/watch?v=jo6iAkSoraY) by [Lata Mangeshkar](http://en.wikipedia.org/wiki/Lata_Mangeshkar)
 
 
 ## Tamil
@@ -68,3 +70,4 @@
 
 * [Gobhire Jao](https://www.youtube.com/watch?v=wHL8LDDcYsE) by [Rupankar Bagchi](https://en.wikipedia.org/wiki/Rupankar_Bagchi)
 * [Eta ki 2441139](https://www.youtube.com/watch?v=WYSq5VdWCgU) by [Anjan Dutta](https://en.wikipedia.org/wiki/Anjan_Dutt)
+* [Tomay Dilam](https://www.youtube.com/watch?v=Ddzoxb0dGtI) by Moheener Ghoraguli(https://en.wikipedia.org/wiki/Moheener_Ghoraguli)
