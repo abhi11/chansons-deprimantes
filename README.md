@@ -68,6 +68,7 @@
 
 ## Bengali
 
+* [Aamaro Porano Jaha Chai](https://www.youtube.com/watch?v=RL67hLm_TYU) by [Rabindranath Tagore](https://en.wikipedia.org/wiki/Rabindranath_Tagore)
 * [Gobhire Jao](https://www.youtube.com/watch?v=wHL8LDDcYsE) by [Rupankar Bagchi](https://en.wikipedia.org/wiki/Rupankar_Bagchi)
 * [Eta ki 2441139](https://www.youtube.com/watch?v=WYSq5VdWCgU) by [Anjan Dutta](https://en.wikipedia.org/wiki/Anjan_Dutt)
-* [Tomay Dilam](https://www.youtube.com/watch?v=Ddzoxb0dGtI) by Moheener Ghoraguli(https://en.wikipedia.org/wiki/Moheener_Ghoraguli)
+* [Tomay Dilam](https://www.youtube.com/watch?v=Ddzoxb0dGtI) by [Moheener Ghoraguli](https://en.wikipedia.org/wiki/Moheener_Ghoraguli)
