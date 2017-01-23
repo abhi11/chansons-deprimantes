@@ -41,6 +41,7 @@
 * [Bleeding Me](https://www.youtube.com/watch?v=ftV_XepIwpo) by [Metallica](http://en.wikipedia.org/wiki/Metallica)
 * [Diamonds & Rust](https://www.youtube.com/watch?v=dcaZi_G3xVs) by [Joan Baez](https://en.wikipedia.org/wiki/Joan_Baez)
 * [Behind Blue Eyes](https://www.youtube.com/watch?v=BfuWXRZe9yA) by [The Who](https://en.wikipedia.org/wiki/The_Who)
+* [Wash Away those Years](https://youtu.be/KpFN28K-3Tk) by [Creed](https://en.wikipedia.org/wiki/Creed_(band))
 
 ## Hindi
 
