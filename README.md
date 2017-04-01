@@ -60,6 +60,7 @@
 * [Laadki](https://www.youtube.com/watch?v=5U9uP6riAZM) by [Sachin-Jigar](https://en.wikipedia.org/wiki/Sachin%E2%80%93Jigar)
 * [Tum Ho Toh](https://www.youtube.com/watch?v=I3rQkFFqCiI) by [Farhan Akhtar](https://en.wikipedia.org/wiki/Farhan_Akhtar)
 * [Tere Liye](https://www.youtube.com/watch?v=jo6iAkSoraY) by [Lata Mangeshkar](http://en.wikipedia.org/wiki/Lata_Mangeshkar)
+* [Chaap Tilak](https://www.youtube.com/watch?v=7SDrjwtfKMk) by [Abida Parveen](https://en.wikipedia.org/wiki/Abida_Parveen) & [Rahat Fateh Ali Khan](https://en.wikipedia.org/wiki/Rahat_Fateh_Ali_Khan)
 
 
 ## Tamil
