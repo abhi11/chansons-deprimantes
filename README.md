@@ -43,6 +43,7 @@
 * [Behind Blue Eyes](https://www.youtube.com/watch?v=BfuWXRZe9yA) by [The Who](https://en.wikipedia.org/wiki/The_Who)
 * [Wash Away those Years](https://youtu.be/KpFN28K-3Tk) by [Creed](https://en.wikipedia.org/wiki/Creed_(band))
 * [High Hopes](https://www.youtube.com/watch?v=7jMlFXouPk8) by [Pink Floyd](https://en.wikipedia.org/wiki/Pink_Floyd)
+* [Doesn't Remind Me](https://www.youtube.com/watch?v=lBFdX37Qpnk) by [Audioslave](https://www.youtube.com/watch?v=lBFdX37Qpnk)
 
 ## Hindi
 
