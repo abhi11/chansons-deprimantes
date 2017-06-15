@@ -44,6 +44,7 @@
 * [Wash Away those Years](https://youtu.be/KpFN28K-3Tk) by [Creed](https://en.wikipedia.org/wiki/Creed_(band))
 * [High Hopes](https://www.youtube.com/watch?v=7jMlFXouPk8) by [Pink Floyd](https://en.wikipedia.org/wiki/Pink_Floyd)
 * [Doesn't Remind Me](https://www.youtube.com/watch?v=lBFdX37Qpnk) by [Audioslave](https://www.youtube.com/watch?v=lBFdX37Qpnk)
+* [Diamonds and Rust](https://www.youtube.com/watch?v=1ST9TZBb9v8) by [Joan Baez](https://en.wikipedia.org/wiki/Joan_Baez)
 
 ## Hindi
 
