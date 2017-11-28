@@ -76,3 +76,5 @@
 * [Gobhire Jao](https://www.youtube.com/watch?v=wHL8LDDcYsE) by [Rupankar Bagchi](https://en.wikipedia.org/wiki/Rupankar_Bagchi)
 * [Eta ki 2441139](https://www.youtube.com/watch?v=WYSq5VdWCgU) by [Anjan Dutta](https://en.wikipedia.org/wiki/Anjan_Dutt)
 * [Tomay Dilam](https://www.youtube.com/watch?v=Ddzoxb0dGtI) by [Moheener Ghoraguli](https://en.wikipedia.org/wiki/Moheener_Ghoraguli)
+* [Tumi Jake Bhalobhaso](https://www.youtube.com/watch?v=NfrxSSpfjTY) by [Iman Chakraborty](https://en.wikipedia.org/wiki/Iman_Chakraborty)
+* [Apur Payer Chaap](https://www.youtube.com/watch?v=Rm0lQRu5hxY) by [Arijit Singh](https://en.wikipedia.org/wiki/Arijit_Singh)
